@@ -40,7 +40,6 @@ about this challenge.
 <p>then we turned off the intercept and refreshed the dashboard, It should have shown the point is already updated.</p>
 <img width="1083" height="524" alt="Screen Shot 2026-08-10 at 17 13 49" src="https://github.com/user-attachments/assets/ec91d2a1-26d6-4373-8f47-3f529b45c6c3" />
 <p>then we scrolls down, to check the whale vault.</p>
-<img width="1092" height="538" alt="Screen Shot 2026-08-10 at 17 14 10" src="https://github.com/user-attachments/assets/9f4ccc53-7f8d-4d2a-92c4-099ff2d85dbd" />
 </p>Voila! the "open vault" buttons is clickable. by clicking the buttons we obtained the flag.</p>
 <img width="1092" height="538" alt="Screen Shot 2026-08-10 at 17 14 10" src="https://github.com/user-attachments/assets/ff2d4f73-6a49-4239-92d6-848fc64a72a3" />
 
