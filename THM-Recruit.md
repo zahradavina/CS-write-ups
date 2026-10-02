@@ -1,5 +1,8 @@
 # TryHackMe — Recruit (Writeup)
 
+Recruit — Infiltrate Recruit's new portal. Map the site, hunt for flaws, and gain unauthorised access 
+https://tryhackme.com/guest-share/0f402c9bae60d27d42585e82266130e44d7a4e67
+
 **Target:** Target_IP
 
 **Category:** Web Exploitation
